@@ -37,4 +37,5 @@ Dar doble clic al archivo index.html para abrirlo en el navegador.
 Integrante - Lo que hizo en el proyecto
 Estefanía Agüero Se encargó del diseño, los colores, el HTML y el CSS.
 Gastón Micarelli Programó el carrito de compras y las funciones con JavaScript.
+
 Valentino Sarmiento Subió el proyecto a GitHub y ayudó con la documentación y el control de versiones.
